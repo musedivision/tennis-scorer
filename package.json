@@ -4,7 +4,8 @@
   "description": "keep track of your score with your voice",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --inline --hot"
   },
   "repository": {
     "type": "git",

@@ -1,11 +1,12 @@
 var React = require('react')
 var ReactDOM = require('react-dom')
+var Layout = require('./containers/Layout')
 
 class App extends React.Component {
   render() {
     return (
       <div>
-        <h1>TENNIS: GAME  ON</h1>
+        <Layout />
       </div>
     );
   }
