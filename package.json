@@ -18,9 +18,6 @@
   },
   "homepage": "https://github.com/musedivision/tennis-scorer#readme",
   "dependencies": {
-    "express": "^4.14.0",
-    "react": "^15.3.2",
-    "react-dom": "^15.3.2",
     "babel-core": "^6.17.0",
     "babel-loader": "^6.2.0",
     "babel-plugin-add-module-exports": "^0.1.2",
@@ -30,6 +27,10 @@
     "babel-preset-es2015": "^6.3.13",
     "babel-preset-react": "^6.3.13",
     "babel-preset-stage-0": "^6.3.13",
+    "express": "^4.14.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-motion": "^0.4.5",
     "webpack": "^1.12.9",
     "webpack-dev-server": "^1.14.1"
   }
