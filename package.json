@@ -29,8 +29,10 @@
     "babel-preset-stage-0": "^6.3.13",
     "express": "^4.14.0",
     "react": "^15.3.2",
+    "react-audio-recorder": "^0.1.0",
     "react-dom": "^15.3.2",
     "react-motion": "^0.4.5",
+    "react-recorder": "^1.0.0",
     "webpack": "^1.12.9",
     "webpack-dev-server": "^1.14.1"
   }
