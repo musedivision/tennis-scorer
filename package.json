@@ -12,7 +12,7 @@
     "url": "git+https://github.com/musedivision/tennis-scorer.git"
   },
   "author": "",
-  "license": "I SC",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/musedivision/tennis-scorer/issues"
   },
